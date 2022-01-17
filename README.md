@@ -7,12 +7,19 @@
 - Ruby
 
 ## To get a local copy run the following steps:
+
 - Copy this link [this link](https://github.com/sja-thedude/Create-Enumerable)
 - Open your terminal or command line
 - Run "git clone Paste [this link](https://github.com/sja-hedude/Create-Enumerable)"
 - Open the folder with your code editor
 - Create a branch to work on
-- Or open the `decode.rb` file in the dist directory to start coding
+- Or open the `enumerable.rb` file in the dist directory to start coding
+
+## To get started-:
+
+- Run `bundle install` to install the dependencies
+- Run `irb` to run the code by pasting it in the terminal.
+- Run `rubocop` to find and fix linters
 
 👤 **SYEDA JUVERIA AFREEN**
 
